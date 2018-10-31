@@ -18,7 +18,7 @@
 // функции
 
 let i = 0;
-export default function consoleRec (arr, test) {
+export default function consoleRec (arr) {
 	console.log(arr[i]);
 	i++;
 	if (arr.length > i){
