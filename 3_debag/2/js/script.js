@@ -13,12 +13,12 @@ function filterFn(source) {
             tr++;
         }
     }
-    if (tr < source.length){
-        return(true);
-    }
-    else {
+    if (tr === 0) {
         return(false);
     }
+    if (tr <= source.length){
+        return(true);
+    }
 }
-let source = [1,2,3,'f',5];
+let source = ['k','h','f','j'];
 console.log(isAllTrue(source, filterFn(source)));
