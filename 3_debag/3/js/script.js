@@ -1,24 +1,37 @@
-function isAllTrue(source, filterFn){
-    if(filterFn === true){
-        return true
-    }
-    else {
-        return false;
-    }
-}
-function filterFn(source) {
-    let tr = 0;
-    for (let i = 0; i < source.length; i++){
-        if (typeof source[i] == 'number'){
-            tr++;
+function calculator(firstNumber) {
+    return {
+        sum: function (){
+            let res = 0;
+            for (let i = 0; i < arguments.length; i++){
+                res += arguments[i];
+            }
+            return firstNumber + res;
+        },
+        dif: function () {
+            let res = 0;
+            for (let i = 0; i < arguments.length; i++){
+                res += arguments[i];
+            }
+            return firstNumber - res;
+        },
+        div: function () {
+            let res = 0;
+            for (let i = 0; i < arguments.length; i++){
+                res += arguments[i];
+            }
+            return firstNumber / res;
+        },
+        mul: function () {
+            let res = 0;
+            for (let i = 0; i < arguments.length; i++){
+                res += arguments[i];
+            }
+            return firstNumber * res;
         }
-    }
-    if (tr === source.length){
-        return(true);
-    }
-    else {
-        return(false);
+
     }
 }
-let source = [1,2,3,'f',5];
-console.log(isAllTrue(source, filterFn(source)));
+let myCalculator = calculator(100);
+
+module.exports = myCalculator;
+
