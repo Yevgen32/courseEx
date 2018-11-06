@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5fd2cfe-bb2c-40f0-ac6f-94b20f3275bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_debag/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_debag/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +18,11 @@
     <session id="-1224076817">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,9 +54,65 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="616216028">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="10" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="10" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="2179" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="2179" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ДЗ.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1541465129862" expanded="true" signature="31:33" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +136,7 @@
         <option value="$PROJECT_DIR$/ДЗ.txt" />
         <option value="$PROJECT_DIR$/3/js/script.js" />
         <option value="$PROJECT_DIR$/3/js/test.js" />
+        <option value="$PROJECT_DIR$/1/js/script.js" />
       </list>
     </option>
   </component>
@@ -96,6 +153,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="270" />
+    <option name="y" value="5" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -107,18 +166,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="3_debag" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3_debag" type="462c0819:PsiDirectoryNode" />
+              <item name="4_obj_arr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4_obj_arr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4_obj_arr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4_obj_arr" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,8 +207,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
+  <component name="RunManager" selected="Node.js.script.js (2)">
     <configuration name="script.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/3/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/1/js">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/2/js">
@@ -157,9 +224,11 @@
       <item itemvalue="Node.js.script.js" />
       <item itemvalue="Node.js.script.js (1)" />
       <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Node.js.script.js (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.script.js (2)" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Node.js.script.js (1)" />
         <item itemvalue="Node.js.script.js" />
@@ -183,18 +252,23 @@
       <workItem from="1541244722936" duration="5299000" />
       <workItem from="1541250064258" duration="11000" />
       <workItem from="1541269087245" duration="20000" />
-      <workItem from="1541277394850" duration="81000" />
+      <workItem from="1541277501100" duration="6559000" />
+      <workItem from="1541292270882" duration="451000" />
+      <workItem from="1541333759101" duration="1409000" />
+      <workItem from="1541424662669" duration="4943000" />
+      <workItem from="1541453927421" duration="1987000" />
+      <workItem from="1541459968317" duration="2833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15677000" />
+    <option name="totallyTimeSpent" value="33778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23511904" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.106398806" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -202,8 +276,8 @@
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.37373737" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39836067" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.33442622" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3967213" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -228,13 +302,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/3/index.html" />
     <entry file="file://$PROJECT_DIR$/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -249,24 +317,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/3/js/test.js" />
+    <entry file="file://$PROJECT_DIR$/3/js/script.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.11.3/core-modules/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="496" column="2" selection-start-line="496" selection-start-column="2" selection-end-line="496" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ДЗ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/js/test.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/js/script.js">
+    <entry file="file://$PROJECT_DIR$/1/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1541465129862" expanded="true" signature="31:33" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
